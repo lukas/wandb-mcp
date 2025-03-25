@@ -1,0 +1,5 @@
+[default]
+entity = l2k2
+project = finetune
+base_url = https://api.wandb.ai
+
